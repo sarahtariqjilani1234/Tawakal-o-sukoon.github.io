@@ -1,0 +1,23 @@
+body{
+ font: 20px Verdana;
+color: black;
+}
+
+h1{
+ font: 20px Verdana;
+ color: black;
+}
+
+.Input{
+ font: 20px Verdana;
+ border: 1px solid orange;
+ width: 30px;
+color: black;
+}
+
+.Submit{
+ font: 20px Verdana;
+ border: 1px solid orange;
+ width: 300px;
+color: black;
+}
